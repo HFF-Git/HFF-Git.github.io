@@ -15,3 +15,4 @@ A favorite quote:
 
 > You start solving the first problem. And then another and another until you solved enough problem to survive.
 
+<img url="20picture&client=safari&ved=2ahUKEwj2257l0pzqAhWQgaQKHXroDZ4QMygoegUIARDqAQ"\>
