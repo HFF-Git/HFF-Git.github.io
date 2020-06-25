@@ -11,3 +11,7 @@ Matt Damon is one of my favorite actors. In this particular movie he plays a lef
 * salesman with second thougts
 * and and and ...
 
+A favorite quote:
+
+> You start solving the first problem. And then another and another until you solved enough problem to survive.
+
